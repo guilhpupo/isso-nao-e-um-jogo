@@ -38,15 +38,14 @@
     "commit": "commit"
   },
   "engines": {
-    "node": "!^x",
-    "npm": "!^x",
-    "yarn": "!^x",
-    "pnpm": "!^x",
-    "bun": "^1.1.x"
+    "node": "^20.15.x",
+    "npm": "^10.8.x",
+    "yarn": "^1.22.x"
   },
   "dependencies": {
     "react": "^18.x",
-    "react-dom": "^18.x"
+    "react-dom": "^18.x",
+    "zod": "^3.23.8"
   },
   "devDependencies": {
     "@commitlint/cli": "^19.x",
@@ -65,6 +64,7 @@
     "@vitejs/plugin-react-swc": "^3.x",
     "@vitest/coverage-v8": "^1.x",
     "@vitest/ui": "^1.x",
+    "autoprefixer": "^10.4.20",
     "c8": "^9.x",
     "eslint": "^8.x",
     "eslint-config-prettier": "^9.x",
@@ -77,11 +77,12 @@
     "happy-dom": "^14.x",
     "husky": "^9.x",
     "lint-staged": "^15.x",
-    "msw": "^2.x",
     "npm-check-updates": "^16.x",
+    "postcss": "^8.4.47",
     "prettier": "^3.x",
     "stylelint": "^16.x",
     "stylelint-config-standard": "^36.x",
+    "tailwindcss": "^3.4.13",
     "typescript": "^5.x",
     "vite": "^5.x",
     "vite-bundle-visualizer": "^1.x",
@@ -104,14 +105,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "keywords": [
-    "react",
-    "boilerplate",
-    "vite",
-    "bundle",
-    "typescript",
-    "starter",
-    "template"
-  ]
+  }
 }

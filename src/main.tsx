@@ -7,25 +7,11 @@ import './index.css'
 
 const root = createRoot(document.getElementById('root') as HTMLElement)
 
-if (import.meta.env.MODE === 'test') {
-  import('@/__mocks__/browser')
-    .then(({ worker }) => {
-      worker.start()
-    })
-    .then(() => {
-      root.render(
-        <StrictMode>
-          <App />
-        </StrictMode>,
-      )
-    })
-} else {
-  root.render(
-    <StrictMode>
-      <App />
-    </StrictMode>,
-  )
-}
+root.render(
+  <StrictMode>
+    <App />
+  </StrictMode>,
+)
 
 // Uncomment if you want to see the Lighthouse report in the console
 // import reportWebVitals from './reportWebVitals'

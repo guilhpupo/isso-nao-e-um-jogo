@@ -1,0 +1,434 @@
+{
+  "categories": [
+    {
+      "id": "44c9f571-9ce1-4946-9889-0e28b50b888a",
+      "name": "Sobre você e sobre mim",
+      "color": "#0284c7",
+      "questions": [
+        {
+          "id": "582f4c80-9861-4aa5-a2df-104da0fa6070",
+          "question": "Se você só pudesse escolher 3 coisas para comer para o resto da sua vida, quais seriam?"
+        },
+        {
+          "id": "d9651a40-84f4-4cda-a4a9-5872c127fbd6",
+          "question": "Como você descreveria a sua personalidade?"
+        },
+        {
+          "id": "679b3b91-4666-4741-a547-611ad4dc72aa",
+          "question": "Falem sobre 5 qualidades que vocês gostam um no outro."
+        },
+        {
+          "id": "dcd9e556-b1dc-4db3-b288-b50ed100abc7",
+          "question": "Qual é o seu filme, sua série, sua música e livro favoritos?"
+        },
+        {
+          "id": "554e2b43-863d-4495-ada0-f1a70874420b",
+          "question": "Quais são seus hobbies favoritos?"
+        },
+        {
+          "id": "e10cefad-1f8b-4704-a06e-951a83cce035",
+          "question": "Como você gosta de relaxar e recarregar suas energias depois de um dia difícil?"
+        },
+        {
+          "id": "d2a004d6-51f6-4d4f-81d3-3191e72ce4b8",
+          "question": "Se você pudesse descrever um momento de autodescoberta significativo em sua vida, qual seria? E o que aprendeu sobre você?"
+        },
+        {
+          "id": "d27fc0f5-5c0f-4573-ba17-de6def58d6be",
+          "question": "O que mais te inspira na vida? Existem filosofias ou ideias que moldam sua maneira de olhar o mundo?"
+        },
+        {
+          "id": "d703cbd2-5a7e-4c65-a4e8-3d80dbe1e0de",
+          "question": "Quais coisas você quer fazer antes de morrer?"
+        }
+      ]
+    },
+    {
+      "id": "a184231f-1ffa-40f4-b209-8af00106228e",
+      "name": "Metas, sonhos e futuro",
+      "color": "#134e4a",
+      "questions": [
+        {
+          "id": "f0c55277-ccf0-4289-a809-625e62335a28",
+          "question": "Quais são os seus sonhos para o futuro?"
+        },
+        {
+          "id": "bb4591c1-0651-404a-95a8-14d4909b9626",
+          "question": "Como você imagina a sua vida no próximo ano? E daqui a 5 anos?"
+        },
+        {
+          "id": "2c5013b9-9e37-426b-a37d-f621ed240004",
+          "question": "Se pudesse escolher uma meta ou um sonho para começar a colocar em prática agora, qual seria? "
+        },
+        {
+          "id": "1eb1cefb-fac8-47e5-a669-9b96a730bb82",
+          "question": "O que você individualmente pode fazer para conseguir se aproximar dos seus objetivos futuros?"
+        },
+        {
+          "id": "ae871518-3243-4107-80f1-7971bb147003",
+          "question": "O que posso fazer para te apoiar na realização de seus sonhos individuais?"
+        },
+        {
+          "id": "e8b4bf46-f47f-4d55-9c40-a78278e856c3",
+          "question": "Quais são as experiências que vocês gostariam de compartilhar ao longo dos próximos anos?"
+        },
+        {
+          "id": "a1eef91f-2856-4932-be6e-bc32a5b07322",
+          "question": "Quais são os obstáculos que você acredita que pode ter ao buscar suas metas? Como acha que podemos enfrentá-los juntos?"
+        },
+        {
+          "id": "2796aa5c-b0c4-44c8-8ab3-ee7fcb0612dd",
+          "question": "O que vocês podem fazer para nutrir a paixão e o entusiasmo em relação aos seus sonhos compartilhados?"
+        },
+        {
+          "id": "6d2db36e-99fa-4d7d-91ec-974422e413a1",
+          "question": "Qual o legado que vocês querem deixar como casal?"
+        }
+      ]
+    },
+    {
+      "id": "fab05afc-5d0a-4bfe-a543-2e50b3931f23",
+      "name": "Sexo e intimidade",
+      "color": "#e11d48",
+      "questions": [
+        {
+          "id": "96f2233c-1600-4bd1-8641-d8197f709da5",
+          "question": "O que você acha que é mais importante para criar uma conexão emocional e física forte durante o sexo?"
+        },
+        {
+          "id": "90c8ec94-55c4-4cde-b79b-af87404e4692",
+          "question": "Quais são os rituais ou hábitos que podemos colocar na nossa rotina para aumentar a intimidade e a conexão sexual?"
+        },
+        {
+          "id": "85ce8aef-9e7c-4337-9303-a6c4a1ee3254",
+          "question": "Quais são as suas expectativas em relação à frequência e à qualidade do sexo em seu relacionamento?"
+        },
+        {
+          "id": "96e9c377-fee5-42d6-88b9-7365d9a18c44",
+          "question": "O que te faz perder a conexão sexual e quais os caminhos para recuperá-la?"
+        },
+        {
+          "id": "cb704a0a-4e04-49e0-8549-ea8bf98e7155",
+          "question": "Existe alguma insegurança, trauma ou limite sexual que você gostaria de compartilhar?"
+        },
+        {
+          "id": "cefc1841-ed14-4a6f-b73b-03e9a7784188",
+          "question": "Existem desejos ou fantasias que você gostaria de explorar comigo?"
+        },
+        {
+          "id": "2ffb59fa-f1dc-43c0-8f16-080a2061a6f0",
+          "question": "O que eu faço na hora do sexo que você mais gosta?"
+        },
+        {
+          "id": "7cf6d84d-2bce-4667-af84-d6f5d889fad6",
+          "question": "O que aumenta ainda mais o seu prazer quando estamos transando?"
+        },
+        {
+          "id": "710cc496-f3c6-4d34-812e-c61445da4825",
+          "question": "Como vocês podem manter a paixão e a conexão sexual ao longo do tempo em seu relacionamento?"
+        }
+      ]
+    },
+    {
+      "id": "8a3ed12e-4235-4de7-9125-5513773a44ad",
+      "name": "Trabalho e dinheiro",
+      "color": "#3f6212",
+      "questions": [
+        {
+          "id": "6f7b4214-b8de-4560-aa93-9539d253f934",
+          "question": "O que é sucesso profissional para você?"
+        },
+        {
+          "id": "610e8250-6b88-460b-937c-aae769ee265e",
+          "question": "Quais as suas expectativas financeiras?"
+        },
+        {
+          "id": "4d8769b2-d3e9-49c7-9c41-da047b8a8474",
+          "question": "Como você se sente em relação ao equilíbrio entre a minha vida pessoal e o meu trabalho?"
+        },
+        {
+          "id": "b02ed95d-52cb-4a62-92d1-c5b103c6d4de",
+          "question": "Quais são seus maiores medos em relação a sua carreira?"
+        },
+        {
+          "id": "dce69177-67f0-4aac-a066-6d36ca0bf20e",
+          "question": "Existem preocupações financeiras que você sente que precisamos abordar como casal?"
+        },
+        {
+          "id": "21b1fdc6-9426-4181-8fb3-faaf009832db",
+          "question": "Existem hábitos de consumo que você gostaria que mudássemos?"
+        },
+        {
+          "id": "016c1921-367e-4901-95bc-b28c19ba777d",
+          "question": "Como podemos tornar nossas metas financeiras um projeto compartilhado e motivador para ambos?"
+        },
+        {
+          "id": "47372081-531c-4e6b-957f-1520b16be65d",
+          "question": "Há algum medo ou insegurança relacionado ao dinheiro que você gostaria de discutir?"
+        },
+        {
+          "id": "219411fd-c0c9-4e0e-ad0d-f7f9bd015f6d",
+          "question": "De que maneira a estabilidade ou instabilidade financeira impacta nosso planejamento para o futuro?"
+        }
+      ]
+    },
+    {
+      "id": "8c80acfb-5afd-4f92-bfb2-2b72f86eb011",
+      "name": "Comunicação e solução de conflitos",
+      "color": "#d97706",
+      "questions": [
+        {
+          "id": "d73e00db-5fb3-4a0e-b374-9200f3cff4ae",
+          "question": "Como você prefere discutir assuntos importantes: em conversas espontâneas ou planejadas?"
+        },
+        {
+          "id": "bb221210-2719-4ca1-8212-e2c11e046e59",
+          "question": "Como você se sente sobre a maneira como resolvemos nossos últimos desentendimentos?"
+        },
+        {
+          "id": "6053145c-6e5e-4deb-a592-3e60510645c8",
+          "question": "Como você se sente em relação ao uso de humor durante nossas discussões?"
+        },
+        {
+          "id": "4dd57f0f-23f9-404a-bbe2-fe7a0324260c",
+          "question": "Existe algum tema que você sente que evitamos discutir, mas sobre o qual precisamos falar?"
+        },
+        {
+          "id": "03193588-887a-4ceb-9239-7cd9dcb2b745",
+          "question": "Existe algo que eu faço durante os conflitos que te magoa ou impede a resolução?"
+        },
+        {
+          "id": "7c910794-fc65-4f93-8f4d-6ba20d114dc0",
+          "question": "Você acha que nossos estilos de comunicação são compatíveis? Como podemos melhorar?"
+        },
+        {
+          "id": "72d3fe53-cf7b-489f-8183-929ffb9a7fee",
+          "question": "Como você gostaria que eu demonstrasse apoio durante momentos de estresse ou conflito?"
+        },
+        {
+          "id": "a1730b5c-ecfb-4b64-a5e2-aaff46b09ff5",
+          "question": "Existe algo que eu disse em um conflito anterior que você gostaria de revisitar para esclarecer ou corrigir?"
+        },
+        {
+          "id": "60efa92d-6b68-47e9-a027-2e3d64cf2fa1",
+          "question": "Quais estratégias podemos adotar para evitar mal-entendidos nas nossas conversas?"
+        }
+      ]
+    },
+    {
+      "id": "3f52f501-4b88-4b2a-9d74-dd857f2b7ebb",
+      "name": "Tempo de qualidade, limites e compatibilidade",
+      "color": "#0891b2",
+      "questions": [
+        {
+          "id": "98328c69-3cea-499e-9290-dab598378221",
+          "question": "Existe algo que você nunca tentou antes, mas gostaria de experimentar comigo?"
+        },
+        {
+          "id": "b1f4492d-c940-4580-9e7c-64253e9bc962",
+          "question": "Existem limites especifícos que você sente que precisamos estabelecer ou ajustar?"
+        },
+        {
+          "id": "02b3e369-8371-40bf-8261-46b0331aa333",
+          "question": "Existem gostos ou preferências que você sacrificou pelo nosso relacionamento? Como se sente a respeito disso?"
+        },
+        {
+          "id": "640bcb25-6599-4cd4-8cc8-6893ffcaf7fa",
+          "question": "Como podemos criar novas tradições legais na nossa rotina?"
+        },
+        {
+          "id": "fcb6684f-c350-4a54-8e17-43526d994381",
+          "question": "Você acha que nossos amigos e família respeitam os limites do nosso relacionamento? Como podemos melhorar isso?"
+        },
+        {
+          "id": "96277b24-eee5-444b-b139-baab37b675cc",
+          "question": "Como você avalia a importância de datas comemorativas e aniversários em nosso relacionamento?"
+        },
+        {
+          "id": "b090e2dd-a7fe-4fc6-8beb-fe820e70bf16",
+          "question": "Existem atividades ou hobbies que você prefere fazer sozinho?"
+        },
+        {
+          "id": "16901c49-867b-45aa-a38b-e410d5edbc0e",
+          "question": "Como você se sente sobre a quantidade de tempo que passamos juntos atualmente? De que maneira podemos melhorar esse tempo de qualidade?"
+        },
+        {
+          "id": "2678f822-a112-44f3-afab-1a4ae587e1fa",
+          "question": "Existem atividades externas ou grupos nos quais poderíamos nos envolver, juntos, para expandir o nosso círculo social?"
+        }
+      ]
+    },
+    {
+      "id": "56a27a17-3465-4096-a411-116645bd78ee",
+      "name": "Saúde e estilo de vida",
+      "color": "#16a34a",
+      "questions": [
+        {
+          "id": "d2f8a1a3-9719-42a2-b7aa-78c67a26b573",
+          "question": "Como você descreveria seu estilo de vida atual e como ele influencia nossa relação?"
+        },
+        {
+          "id": "c97d24ea-8f36-4216-ab00-876f43424d02",
+          "question": "Existem hábitos de saúde que você gostaria que mudássemos juntos?"
+        },
+        {
+          "id": "f9edf27d-f350-4f47-91ae-8002a4138a57",
+          "question": "Como você acha que o consumo de álcool, tabaco ou outras substâncias afeta nossa relação?"
+        },
+        {
+          "id": "603ba5c8-9988-46e0-aaf4-66327661bc49",
+          "question": "Você se sente confortável discutindo suas preocupações de saúde comigo?"
+        },
+        {
+          "id": "67509e52-c674-43b2-a4d9-4597bbb0d3f6",
+          "question": "Você se sente apoiado por mim em suas escolhas de estilo de vida? Como posso oferecer mais suporte?"
+        },
+        {
+          "id": "2abd927d-ccc3-401a-ac6c-9c81d5c7e333",
+          "question": "Que atividades de bem-estar você gostaria de experimentar comigo?"
+        },
+        {
+          "id": "496e86ec-8075-4c2e-a478-675ba92abf07",
+          "question": "Como podemos motivar um ao outro a manter um compromisso com um estilo de vida saudável, especialmente durante períodos difíceis?"
+        },
+        {
+          "id": "b5aefb4e-fe08-446f-8f22-4bef86136a9e",
+          "question": "Existe alguma mudança em nosso ambiente doméstico que poderia nos ajudar a viver de maneira mais saudável?"
+        },
+        {
+          "id": "fb51e95f-042a-4f5e-81fb-daaf879239c3",
+          "question": "Como a espiritualidade influencia seu bem-estar pessoal e nossa vida como casal?"
+        }
+      ]
+    },
+    {
+      "id": "389e1a88-0b16-4742-8462-66ce9ba6cbc2",
+      "name": "Respeito e compromisso",
+      "color": "#7c3aed",
+      "questions": [
+        {
+          "id": "6f5e851f-9a72-4b81-aff2-9e484a6f9177",
+          "question": "Para você, quais são os principais acordos que temos dentro do nosso relacionamento?"
+        },
+        {
+          "id": "6786e36d-cac0-4458-be4b-b7c6ea2b2698",
+          "question": "De que maneiras você se sente respeitado e valorizado por mim? Como posso melhorar?"
+        },
+        {
+          "id": "fae4fcf8-6e64-4434-98d2-dd57517ac2ea",
+          "question": "Quais ações você considera importantes para demonstrar respeito pelo espaço e tempo um do outro?"
+        },
+        {
+          "id": "4099efdf-3fa9-4085-a880-f82f65b61ea7",
+          "question": "Como eu posso demonstrar compromisso com nosso relacionamento no dia a dia?"
+        },
+        {
+          "id": "d420948b-10f8-4279-b6dc-c2aece490121",
+          "question": "Você se sente respeitado nas opiniões que divergimos? Como você acredita que podemos manter o respeito em relação a essas diferenças?"
+        },
+        {
+          "id": "efe6913f-be54-4f81-ba51-5107cbcadb2e",
+          "question": "Como você se sente em relação aos acordos que fizemos dentro do nosso relacionamento até agora?"
+        },
+        {
+          "id": "a078ceff-d2b6-4db0-b18a-4b8bb1ec710d",
+          "question": "Você acha que há um equilíbrio saudável entre nosso compromisso um com o outro e nossa independência pessoal?"
+        },
+        {
+          "id": "63bf61be-41e1-43f5-8e68-037b235d5532",
+          "question": "Você se sente seguro para expressar quando algo não está respeitando seus limites ou expectativas?"
+        },
+        {
+          "id": "a2aa5ee4-d788-481e-910a-4aa3d09a002b",
+          "question": "O que te faria sentir que os nossos acordos estão sendo quebrados?"
+        }
+      ]
+    },
+    {
+      "id": "1c8a5a76-b30b-486c-bc6c-65da03a0d989",
+      "name": "Date surpresa",
+      "color": "#ca8a04",
+      "questions": [
+        {
+          "id": "c6f4b8aa-efbe-4129-8890-268678faadff",
+          "question": "Planejem o dia perfeito juntos e definam uma data pra ele acontecer."
+        },
+        {
+          "id": "c6f4b8aa-efbe-4129-8890-268678faadff",
+          "question": "Façam uma coisa improvável hoje que vocês normalmente não fariam. Uma loucura juntos, algo que vocês vão contar futuramente e dar boas risadas!"
+        },
+        {
+          "id": "ca56fdd4-ca3c-4550-a0b4-6d17fab7fb20",
+          "question": "Cada um tem direito a fazer 3 perguntas e 3 desafios."
+        },
+        {
+          "id": "8168f975-93bf-45d9-beae-e610b37cd329",
+          "question": "Pensem em uma festa temática, marquem uma data, organizem juntos e convidem pessoas importantes pra vocês."
+        },
+        {
+          "id": "52655720-7d4a-44c9-9b9b-9b582de1b19a",
+          "question": "Liguem para alguém que vocês amam e que foi importante pra vocês como casal e agradeçam com uma mensagem carinhosa."
+        },
+        {
+          "id": "07c405ce-a3ec-4533-bef5-9af28e4a9cf8",
+          "question": "Contem um para o outro surpresas que vocês adorariam ter e depois disso vocês têm uma missão: realizá-las até o fim do ano, de forma inesperada."
+        },
+        {
+          "id": "94338dc9-30a3-43f1-a8d2-39d248640942",
+          "question": "Planeje, em segredo, a programação de um dia inteiro para o seu parceiro e marque uma data para ela acontecer."
+        },
+        {
+          "id": "b10817d1-acba-489c-ba09-f9674ce59e19",
+          "question": "Planejem a próxima viagem juntos agora, com lugar, data e roteiro."
+        },
+        {
+          "id": "aa8fe65c-66bb-404d-89a2-02ce3823cec4",
+          "question": "Escrevam uma lista de “coisas a fazer juntos antes de morrer”."
+        }
+      ]
+    },
+    {
+      "id": "348a7b20-5db9-4cf6-a843-710711b30d2d",
+      "name": "Nossa história",
+      "color": "#4338ca",
+      "questions": [
+        {
+          "id": "f6164e12-0161-4799-8bce-29bc0f038c8f",
+          "question": "Qual foi o momento em que você sentiu que nossa conexão estava mais forte do que nunca?"
+        },
+        {
+          "id": "70a19ef1-09ca-464f-917c-e3716f009c18",
+          "question": "Quando foi que você percebeu que estava apaixonado por mim?"
+        },
+        {
+          "id": "d2b599ab-49dd-4dea-8cdf-032334b772d7",
+          "question": "Existem momentos específicos em nossa história que você considera como pontos de virada para sermos o que somos hoje?"
+        },
+        {
+          "id": "dd35d3c0-0d4d-42c7-b3ae-904b8cde576c",
+          "question": "Se pudéssemos voltar no tempo para reviver uma experiência que compartilhamos juntos, qual você escolheria e por quê?"
+        },
+        {
+          "id": "454d1e2e-bcc6-4653-bb59-7cd60a6e2a11",
+          "question": "Qual é a lembrança mais engraçada ou descontraída que você tem de nós dois juntos?"
+        },
+        {
+          "id": "ab9b500a-aaf8-4e75-a4f3-e95502f4866a",
+          "question": "Se você fosse contar a nossa história para um desconhecido, como contaria?"
+        },
+        {
+          "id": "bf48b345-4508-4a7c-85c4-7de18981f3f1",
+          "question": "Se pudéssemos extrair uma lição valiosa de nossa história, qual seria?"
+        },
+        {
+          "id": "bf372a5b-e001-4906-b633-4223bdc6b408",
+          "question": "Se você pudesse escolher qualquer lugar do mundo para me levar, qual seria e por quê?"
+        },
+        {
+          "id": "4eb9f975-536c-42d3-9e2a-8045efbecb69",
+          "question": "Quais são as coisas que a gente precisa prometer nunca fazer�um ao outro?"
+        }
+      ]
+    }
+  ]
+}
