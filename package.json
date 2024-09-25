@@ -29,9 +29,7 @@
     "commit": "commit"
   },
   "engines": {
-    "node": "^20.15.x",
-    "npm": "^10.8.x",
-    "yarn": "^1.22.x"
+    "node": "^20.x"
   },
   "dependencies": {
     "react": "^18.x",
