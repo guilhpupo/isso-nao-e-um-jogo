@@ -65,7 +65,7 @@
     "eslint-plugin-react-refresh": "^0.x",
     "happy-dom": "^14.x",
     "lint-staged": "^15.x",
-    "npm-check-updates": "^16.x",
+    "npm-check-updates": "^17.x",
     "postcss": "^8.4.47",
     "prettier": "^3.x",
     "stylelint": "^16.x",
