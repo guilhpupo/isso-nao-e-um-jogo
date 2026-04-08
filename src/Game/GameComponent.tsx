@@ -1,15 +1,22 @@
-import { useEffect, useState } from 'react'
+import { useEffect, useRef, useState } from 'react'
 
 import { CategoryType, QuestionType, useGame } from '@/Game'
 
 const GameComponent = () => {
-  const gameContext = useGame()
+  const { getRandomQuestion } = useGame()
 
   const [showQuestion, setShowQuestion] = useState(false)
   const [randomQuestion, setRandomQuestion] = useState<{
     category: CategoryType
     question: QuestionType
   }>()
+  const didLoadFirst = useRef(false)
+
+  useEffect(() => {
+    if (didLoadFirst.current) return
+    didLoadFirst.current = true
+    setRandomQuestion(getRandomQuestion())
+  }, [getRandomQuestion])
 
   useEffect(() => {
     const timer = setTimeout(() => {
@@ -19,15 +26,19 @@ const GameComponent = () => {
     return () => clearTimeout(timer)
   }, [showQuestion])
 
-  const handleClickNextQuestion = async () => {
-    const newQuestion = gameContext.getRandomQuestion()
+  const handleClickNextQuestion = () => {
+    const newQuestion = getRandomQuestion()
 
     setRandomQuestion(newQuestion)
     setShowQuestion(false)
   }
 
   if (!randomQuestion) {
-    return <button onClick={handleClickNextQuestion}>Começar</button>
+    return (
+      <div className="flex min-h-screen items-center justify-center bg-neutral-950 font-mono text-slate-400">
+        Carregando pergunta…
+      </div>
+    )
   }
 
   return (

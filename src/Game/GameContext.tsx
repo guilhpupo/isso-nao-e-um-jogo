@@ -1,4 +1,4 @@
-import React, { createContext, useEffect, useState } from 'react'
+import React, { createContext, useCallback, useEffect, useState } from 'react'
 
 import { CategoryType, GameContextType, GameDataType, QuestionType, gameSchema } from '@/Game'
 
@@ -15,7 +15,7 @@ const GameProvider: React.FC<{ children: React.ReactNode }> = ({ children }) => 
     setGameDataState(parsedGameData)
   }, [])
 
-  const getRandomQuestion = (): { category: CategoryType; question: QuestionType } => {
+  const getRandomQuestion = useCallback((): { category: CategoryType; question: QuestionType } => {
     if (!gameDataState) throw 'gameDataState is not loaded'
 
     const availableQuestions: { category: CategoryType; question: QuestionType }[] = []
@@ -40,10 +40,14 @@ const GameProvider: React.FC<{ children: React.ReactNode }> = ({ children }) => 
     })
 
     return { category, question }
-  }
+  }, [gameDataState, usedQuestions])
 
   if (!gameDataState) {
-    return <div>Carregando...</div>
+    return (
+      <div className="flex min-h-screen items-center justify-center bg-neutral-950 font-mono text-sm text-slate-500">
+        Carregando…
+      </div>
+    )
   }
 
   return (
